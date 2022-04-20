@@ -1,3 +1,14 @@
 .home {
   color: white;
 }
+
+.basicInfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.columna {
+  display: flex;
+  flex-direction: column;
+}
